@@ -1,13 +1,134 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>My Resume</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Personal Website</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Add your custom styles here */
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f6f8fa;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+    }
+
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px;
+      background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      border-radius: 4px;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin-top: 0;
+    }
+
+    h2 {
+      font-size: 24px;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#resume">Resume</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<h1>My Resume</h1>
+  <main>
+    <section id="home">
+      <div class="container">
+        <h1 class="display-4">Welcome to My Personal Website</h1>
+        <p class="lead">Introduce yourself or add a catchy tagline here.</p>
+      </div>
+    </section>
 
-<embed src="my_resume.pdf" width="800px" height="2100px" />
+    <section id="about">
+      <div class="container">
+        <h2>About Me</h2>
+        <p>Add details about your background, education, and interests here.</p>
+      </div>
+    </section>
 
+    <section id="projects">
+      <div class="container">
+        <h2>Projects</h2>
+        <p>Showcase your projects with descriptions, screenshots, and links.</p>
+      </div>
+    </section>
+
+    <section id="resume">
+      <div class="container">
+        <h2>Resume</h2>
+        <p>Upload your resume as a PDF and provide a download link.</p>
+        <a href="my_resume.pdf" download class="btn btn-primary">Download Resume</a>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <h2>Contact</h2>
+        <p>Include your contact information or a contact form here.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Your Name. All rights reserved.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
