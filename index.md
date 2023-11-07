@@ -5,13 +5,25 @@ layout: default
 
 [Resume](resume.pdf) | [Email](mailto:me@faisalbaig.com) | [LinkedIn](https://www.linkedin.com/in/baig-faisal/) | [Github](https://faisab.github.io/)
 
-M.S. Computer Science @ Georgia Tech '24
+
 
 ### About me
 
-I'm a computer science student at Georgia Tech who is interested in developing technology that solves real-world problems. My realm of experience lies in AWS Native Services. While interning at Fidelity Investments, I worked on developing highly-scalable cloud infrastructure and decreased cloud deployment time by over 17x. As a software engineer intern at Card Curator, I assisted in developing the application's proprietary back-end with the CTO to allow consumers to fully leverage their credit card rewards. Back home, I co-founded Scholastician, a student-run organization aimed at providing personalized tutoring by matching students to certified tutors, which received a Congressional Commendation by my local House Representative (TX-03) and was featured by local news channels. In my free time, I enjoy building projects and watching sports.
+I'm a MSCS student at Georgia Tech interested in building intelligent systems and driven by the potential of AI to solve complex challenges. 
 
-Prior to attending Tech, I also interned as a research assistant at the University of Texas at Austin under Dr. Xuesu Xiao where I improved the efficiency of path-planning for high-dimensional robotic arms using machine learning.
+### Experience
+
+- AI Engineer Intern @ BCG
+- Platform Engineer Intern @ CertiK
+- Software Engineer Intern @ Equifax
+
+### Education
+
+- M.S. CS @ Georgia Tech '24
+- B.S. CS @ Georgia Tech '23
+
+<!-- Through interning at Boston Consulting Group, CertiK, and Equifax, I've gained a a diverse set of professional experiences. My academic ventures as a Graduate Assistant and researcher under Dr. Ali Adibi where I worked to improve visual diagnostics using machine learning. -->
+
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
