@@ -15,11 +15,10 @@ I'm a MSCS student at Georgia Tech interested in building intelligent systems an
 
 - AI Engineer Intern @ BCG
 - Platform Engineer Intern @ CertiK
-- Software Engineer Intern @ Equifax
 
 ### Education
 
-- M.S. CS @ Georgia Tech '24
+- M.S. CS @ Georgia Tech
 - B.S. CS @ Georgia Tech '23
 
 <!-- Through interning at Boston Consulting Group, CertiK, and Equifax, I've gained a a diverse set of professional experiences. My academic ventures as a Graduate Assistant and researcher under Dr. Ali Adibi where I worked to improve visual diagnostics using machine learning. -->
