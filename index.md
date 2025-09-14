@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Resume](resume.pdf) | [Email](mailto:baig.faisal@outlook.com) | [LinkedIn](https://www.linkedin.com/in/baig-faisal/) | [Github](https://github.com/faisab)
+[Email](mailto:baig.faisal@outlook.com) | [LinkedIn](https://www.linkedin.com/in/baig-faisal/) | [Github](https://github.com/faisab)
 
 
 
