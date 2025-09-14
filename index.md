@@ -9,16 +9,16 @@ layout: default
 
 ### About me
 
-I'm a MSCS student at Georgia Tech interested in building intelligent systems and driven by the potential of AI to solve complex challenges. 
+Hey! I’m an MS CS student at Georgia Tech, where I also completed my undergrad. Currently interested in systems research for machine learning and building infrastructure for inference and training.
 
 ### Experience
 
-- AI Engineer Intern @ BCG
-- Platform Engineer Intern @ CertiK
+- Software Engineer Intern @ Nvidia
+- ML Engineer Intern @ BCG
 
 ### Education
 
-- M.S. CS @ Georgia Tech
+- M.S. CS @ Georgia Tech 
 - B.S. CS @ Georgia Tech '23
 
 <!-- Through interning at Boston Consulting Group, CertiK, and Equifax, I've gained a a diverse set of professional experiences. My academic ventures as a Graduate Assistant and researcher under Dr. Ali Adibi where I worked to improve visual diagnostics using machine learning. -->
